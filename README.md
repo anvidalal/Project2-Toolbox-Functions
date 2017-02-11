@@ -1,5 +1,4 @@
-# [Bird Wing](https://anvidalal.github.io/Project1-Noise/)
-
+# [Bird Wing]
 <img src="demo.gif" width="500">
 
 ## Objective
@@ -12,4 +11,6 @@ I started off deciding which of the functions taught I would like to use to make
 
 ## Interactivity
 
-Using dat.GUI, I added sliders to affect the curvature, distribution, size, orientation, and color of the feathers and speed of motion of wind and flapping.
+Using dat.GUI, I added sliders to affect the curvature, distribution, size, orientation, and color of the feathers and speed of motion of wind and flapping. Feather fluttering is dependent on the wind speed. I selectively make my feathers on the lower side of the wind flutter to give a more realistic look.
+
+<img src="wind.gif" width="500">
